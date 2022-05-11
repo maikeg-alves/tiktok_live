@@ -1,0 +1,14 @@
+{
+  "player1": {
+    "emoji": "💓",
+    "play": false
+  },
+  "player2": {
+    "emoji": "💩",
+    "play": false
+  },
+  "player3": {
+    "emoji": "👽",
+    "play": false
+  }
+}
