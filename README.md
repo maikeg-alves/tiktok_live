@@ -6,7 +6,7 @@ Bot feito em NodeJS e a biblioteca de web scrapin ‘puppeteer’, o bot tem ace
 
 Pequeno vídeo que mostra o bot em ação capturando o chat e verificando o conteúdo dos textos em tempo real 
 
-(Clique aqui para assistir)[https://youtu.be/CWmjZaPGwYA]
+[Clique aqui para assistir](https://youtu.be/CWmjZaPGwYA)
 
 ### Status do Projeto 
 
