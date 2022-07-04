@@ -8,6 +8,8 @@ Pequeno vídeo que mostra o bot em ação capturando o chat e verificando o cont
 
 [Clique aqui para assistir](https://youtu.be/CWmjZaPGwYA)
 
+[Interface front-end que se comunicar com o bot](https://www.youtube.com/watch?v=SVmeXl0elWI&ab_channel=MaiconGabriel)
+
 ### Status do Projeto 
 
 Atualmente esse projeto está pausado, futuramente ele ganhar uma interface em Electron, formas dinâmicas de adicionar os inputs necessários como link da live e um sistema de transmissão por captura de tela. 
