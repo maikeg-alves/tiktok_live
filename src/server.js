@@ -1,7 +1,7 @@
 const express = require("express");
 const puppeteer = require("puppeteer");
 const axios = require("axios").default;
-const cookies = require("./services/cookies");
+const cookies = require("/cookies");
 const app = express();
 
 app.use(express.json());
